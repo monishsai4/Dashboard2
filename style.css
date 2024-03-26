@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Judson:ital,wght@0,400;0,700;1,400&family=Kode+Mono:wght@400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  color: #333333;
+}
+/*    --primary-100:#C0C0C0;
+    --primary-200:#a3a3a3;
+    --primary-300:#626262;
+    --accent-100:#808080;
+    --accent-200:#2b2b2b;
+    --text-100:#000000;
+    --text-200:#2c2c2c;
+    --bg-100:#F5F5F5;
+    --bg-200:#ebebeb;
+    --bg-300:#c2c2c2;
+      */
+
+.containme {
+  background-color: #567189;
+  border-radius: 12px;
+}
+.srr {
+  border-radius: 15px;
+}
+.lefme {
+  margin-left: 70px;
+}
+p {
+  margin: 0px;
+  padding: 0px;
+}
+h2 {
+  margin: 0px;
+  padding: 0px;
+}
+
+h4 {
+  margin: 0px;
+  padding: 0px;
+}
+h6 {
+  margin: 0px;
+  padding: 5px 0px 0px 0px;
+}
+.hh {
+  padding: 0px 0px 0px 0px;
+}
+.padleft {
+  padding-left: 10px;
+}
+.givepad {
+  margin-bottom: 8px;
+}
